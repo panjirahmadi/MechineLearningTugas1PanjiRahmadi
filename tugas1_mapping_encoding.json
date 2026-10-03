@@ -1,0 +1,37 @@
+{
+    "Nama": {
+        "Adi": 0,
+        "Budi": 1,
+        "Citra": 2,
+        "Dina": 3,
+        "Eka": 4,
+        "Farhan": 5,
+        "Gita": 6,
+        "Hana": 7,
+        "Iwan": 8,
+        "Joko": 9
+    },
+    "Jenis_Kelamin": {
+        "Laki-laki": 0,
+        "Perempuan": 1
+    },
+    "Prodi": {
+        "Data Science": 0,
+        "Informatika": 1,
+        "Sistem Informasi": 2,
+        "Teknik Komputer": 3
+    },
+    "Status": {
+        "Aktif": 0,
+        "Cuti": 1,
+        "DO": 2,
+        "Lulus": 3
+    },
+    "Nilai_Akhir": {
+        "A": 0,
+        "B": 1,
+        "C": 2,
+        "D": 3,
+        "E": 4
+    }
+}
