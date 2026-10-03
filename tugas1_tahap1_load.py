@@ -9,7 +9,6 @@ from sklearn.model_selection import train_test_split
 folder = Path(__file__).resolve().parent
 df = pd.read_csv(folder / "dataset_tugas1_preprocessing.csv")
 
-# Menampilkan lima baris pertama dan ukuran dataset
 print("Lima baris pertama:")
 print(df.head().to_string(index=False))
 
